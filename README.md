@@ -5,8 +5,8 @@ nengajou
 Illustratorで年賀状の宛名印刷をするときのテンプレートです。変数機能を用いているので、差し込み印刷が可能です。
 
 ##ファイル構成
-- [hagaki.ai]() `年賀状はがきのIllustratorテンプレート`
-- [data.xml]()`差し込み印刷用のデータ(XML)`
+- [hagaki.ai](https://github.com/mu373/nengajou/blob/master/hagaki.ai) `年賀状はがきのIllustratorテンプレート`
+- [data.xml](https://github.com/mu373/nengajou/blob/master/data.xml)`差し込み印刷用のデータ(XML)`
 
 ##必要条件
 - Illustrator
