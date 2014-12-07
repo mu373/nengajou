@@ -14,8 +14,8 @@ Illustratorで年賀状の宛名印刷をするときのテンプレートです
 
 ##はじめる
 - [最新版をブラウザーからダウンロード]()
-- `git clone https://github.com/mu373/nengajou.git`
-詳細な使い方は[Illustratorで差し込み印刷する]()から。
+- `git clone https://github.com/mu373/nengajou.git`  
+詳細な使い方は[Illustratorで差し込み印刷する](http://memo.minami.me/)から。
 
 ##使い方についての質問
 - 使い方について不明な点は[@mu373](http://www.twitter.com/mu373)まで。
