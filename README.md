@@ -13,7 +13,7 @@ Illustratorで年賀状の宛名印刷をするときのテンプレートです
 - テキストエディタ(Sublime Text etc.)
 
 ##はじめる
-- [最新版をブラウザーからダウンロード]()
+- [最新版をブラウザーからダウンロード](https://github.com/mu373/nengajou/archive/master.zip)
 - `git clone https://github.com/mu373/nengajou.git`  
 詳細な使い方は[Illustratorで差し込み印刷する](http://memo.minami.me/)から。
 
