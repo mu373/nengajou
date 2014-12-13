@@ -1,6 +1,6 @@
 nengajou
 ========
-<a href="https://www.flickr.com/photos/minami-373/16009855065" title="nengajou by Minami Ueda, on Flickr"><img src="https://farm8.staticflickr.com/7574/16009855065_ba9e529ff2_b.jpg" width="1024" height="614" alt="nengajou"></a>
+<a href="https://www.flickr.com/photos/minami-373/16009855065" title="nengajou by Minami Ueda, on Flickr"><img src="https://farm8.staticflickr.com/7574/16009855065_ba9e529ff2_b.jpg" width="100%" alt="nengajou"></a>
 
 ##概要
 Illustratorで年賀状の宛名印刷をするときのテンプレートです。変数機能を用いているので、差し込み印刷が可能です。
